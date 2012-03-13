@@ -1,0 +1,6 @@
+name: dynmap-epiczones
+main: com.moincraft.epiczones.DynmapEpicZonesPlugin
+version: 1.1.0
+author: Contex
+softdepend: [ dynmap, EpicZones ]
+
